@@ -1,0 +1,1 @@
+instance_create_layer(startX + lengthdir_x(distance, angle), startY + lengthdir_y(distance, angle), "layer_effect", eft_smoke);

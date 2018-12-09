@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_logo, 0, GAME_WIDTH / 2, GAME_HEIGHT / 2, 1, 1, 0, c_white, image_alpha);
